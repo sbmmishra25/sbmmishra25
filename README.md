@@ -14,7 +14,7 @@ My interests span **Machine Learning, Deep Learning, Generative AI, Large Langua
 - ✨ Generative AI & Large Language Models
 - 🧠 Natural Language Processing & Code-Mixed Language Understanding
 - 👁️ Computer Vision & Multimodal AI
-- 🩺 AI for Healthcare
+- 🩺 AI in Healthcare
 - 🤖 Agentic AI & Autonomous Decision-Making
 - 🛡️ Trustworthy, Responsible & Explainable AI
 - ⚛️ Quantum Machine Learning & Quantum-Enhanced AI
@@ -83,6 +83,15 @@ Open to research and development collaboration in:
 - Agentic AI
 - Quantum AI/ML
 - AI research and reproducible experimentation
+
+---
+
+## 📊 GitHub
+
+This profile is being developed around **real implementations, reproducible experiments, research prototypes, and technical documentation** rather than empty showcase repositories.
+
+### Current focus
+`Research` · `Build` · `Evaluate` · `Document` · `Share`
 
 ---
 

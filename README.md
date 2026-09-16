@@ -1,24 +1,62 @@
 # Shubham Mishra
 
-### AI/ML Researcher · Generative AI · NLP · LLMs · Computer Vision · Trustworthy AI
+### AI/ML Researcher · Quantum Computing · Quantum AI/ML · Generative AI · NLP · LLMs · Computer Vision
 
-I work at the intersection of **AI research, software development, and education**, with a focus on building practical, reproducible, and research-oriented intelligent systems.
+I work at the intersection of **AI research, quantum computing, software development, and education**, with a focus on practical, reproducible, and research-oriented intelligent systems.
 
-My interests span **Machine Learning, Deep Learning, Generative AI, Large Language Models, Natural Language Processing, Computer Vision, Agentic AI, AI in Healthcare, Trustworthy AI, and Quantum AI/ML**.
+My research interests span **Machine Learning, Deep Learning, Generative AI, Large Language Models, Natural Language Processing, Computer Vision, Agentic AI, Trustworthy AI, AI in Healthcare, Quantum Computing, Quantum Machine Learning, and Quantum-Enhanced Optimization**.
+
+---
+
+## ⚛️ Quantum Computing & Quantum AI
+
+A dedicated research direction of my profile is the intersection of **quantum computing and artificial intelligence**.
+
+### Quantum Computing
+
+- Quantum computing fundamentals and quantum information
+- Qubits, quantum gates, circuits and measurement
+- Quantum algorithms and computational complexity
+- Quantum Fourier Transform
+- Variational Quantum Algorithms (VQAs)
+- Quantum optimization
+- Quantum error correction and fault tolerance
+- NISQ-era computing
+- Quantum cryptography and quantum information security
+- Quantum hardware technologies and quantum advantage
+
+### Quantum AI / Quantum Machine Learning
+
+- Quantum Machine Learning (QML)
+- Variational Quantum Classifiers
+- Quantum neural-network concepts
+- Quantum kernels and quantum feature maps
+- Hybrid quantum-classical learning
+- Quantum-enhanced optimization
+- Quantum-assisted decision-making
+- Quantum-enhanced Generative AI research
+- Trustworthy and explainable Quantum AI
+- Benchmarking quantum and classical approaches
+
+### Research Vision
+
+> **Exploring how quantum computational principles can complement modern AI to develop efficient, trustworthy, and optimization-aware intelligent systems.**
 
 ---
 
 ## 🔬 Research Focus
 
-- 🤖 Artificial Intelligence & Machine Learning
-- ✨ Generative AI & Large Language Models
-- 🧠 Natural Language Processing & Code-Mixed Language Understanding
-- 👁️ Computer Vision & Multimodal AI
-- 🩺 AI in Healthcare
-- 🤖 Agentic AI & Autonomous Decision-Making
-- 🛡️ Trustworthy, Responsible & Explainable AI
-- ⚛️ Quantum Machine Learning & Quantum-Enhanced AI
-- 🔍 Reproducible AI experimentation
+| Domain | Focus |
+|---|---|
+| ⚛️ Quantum Computing | Quantum algorithms, information, optimization and NISQ computing |
+| 🧬 Quantum AI/ML | Hybrid quantum-classical learning and quantum-enhanced AI |
+| 🤖 AI/ML | Machine learning, deep learning and intelligent systems |
+| ✨ Generative AI | LLMs, RAG, multimodal generation and research assistants |
+| 🧠 NLP | Hindi-English code-mixed language understanding |
+| 👁️ Computer Vision | Vision and multimodal intelligence |
+| 🩺 Healthcare AI | Intelligent decision-support applications |
+| 🤖 Agentic AI | Autonomous, tool-using intelligent systems |
+| 🛡️ Trustworthy AI | Reliability, interpretability and responsible AI |
 
 ---
 
@@ -30,11 +68,11 @@ My interests span **Machine Learning, Deep Learning, Generative AI, Large Langua
 **AI / ML**  
 `Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `Generative AI` · `LLMs` · `Transformers`
 
-**Research**  
-`RAG` · `Multimodal AI` · `Agentic AI` · `Trustworthy AI` · `AI in Healthcare` · `Quantum AI/ML`
+**Quantum**  
+`Quantum Computing` · `QML` · `Variational Quantum Algorithms` · `Quantum Optimization` · `Quantum Information`
 
-**Engineering**  
-`Algorithms & Data Structures` · `Research Prototyping` · `Experiment Design` · `Model Evaluation` · `Technical Documentation`
+**Research & Engineering**  
+`RAG` · `Multimodal AI` · `Agentic AI` · `Trustworthy AI` · `Research Prototyping` · `Experiment Design` · `Model Evaluation`
 
 ---
 
@@ -47,25 +85,40 @@ Research-oriented toolkit for preprocessing and experimentation with Hindi-Engli
 
 **Focus:** NLP · Code-Mixed Language · Sentiment Analysis · Reproducibility
 
+### ⚛️ Quantum-Enhanced AI Research
+An ongoing research direction exploring **hybrid quantum-classical AI, quantum optimization, trustworthy Quantum AI, and autonomous decision-making**.
+
+**Status:** Research direction / experiments in development
+
 ---
 
-## 📚 Research Directions
+## 📚 Quantum Research Roadmap
 
-| Area | Research Direction |
-|---|---|
-| 🧠 NLP | Hindi-English code-mixed language understanding |
-| ✨ Generative AI | LLM-based research assistants and knowledge systems |
-| 👁️ Vision | Computer vision and multimodal intelligence |
-| 🩺 Healthcare AI | Intelligent decision-support applications |
-| 🛡️ Trustworthy AI | Reliability, interpretability and responsible AI |
-| ⚛️ Quantum AI | Quantum-enhanced learning and optimization |
-| 🤖 Agentic AI | Autonomous, tool-using intelligent systems |
+```text
+Quantum Fundamentals
+        ↓
+Quantum Information & Circuits
+        ↓
+Quantum Algorithms
+        ↓
+NISQ & Variational Computing
+        ↓
+Quantum Machine Learning
+        ↓
+Hybrid Quantum-Classical AI
+        ↓
+Quantum Optimization
+        ↓
+Trustworthy Quantum AI
+        ↓
+Autonomous / Agentic Quantum-Enhanced AI
+```
 
 ---
 
 ## 🧑‍🏫 Teaching & Mentoring
 
-I am interested in **teaching, mentoring, research supervision, and developing practical AI/ML learning experiences** for students and researchers.
+I am interested in **teaching, mentoring, research supervision, and developing practical AI/ML and emerging-computing learning experiences** for students and researchers.
 
 I enjoy turning complex concepts into **implementable projects, experiments, algorithms, and research problems**.
 
@@ -75,23 +128,25 @@ I enjoy turning complex concepts into **implementable projects, experiments, alg
 
 Open to research and development collaboration in:
 
-- Artificial Intelligence & Machine Learning
+- Quantum Computing & Quantum Information
+- Quantum Machine Learning / Quantum AI
+- Hybrid Quantum-Classical AI
+- Quantum Optimization
 - Generative AI / LLMs
 - NLP and Multimodal AI
 - Computer Vision
 - Trustworthy AI
 - Agentic AI
-- Quantum AI/ML
 - AI research and reproducible experimentation
 
 ---
 
 ## 📊 GitHub
 
-This profile is being developed around **real implementations, reproducible experiments, research prototypes, and technical documentation** rather than empty showcase repositories.
+This profile is being developed around **real implementations, reproducible experiments, research prototypes, quantum/AI experiments, and technical documentation** rather than empty showcase repositories.
 
 ### Current focus
-`Research` · `Build` · `Evaluate` · `Document` · `Share`
+`Quantum` · `AI` · `Research` · `Build` · `Evaluate` · `Document` · `Share`
 
 ---
 
@@ -101,4 +156,4 @@ This profile is being developed around **real implementations, reproducible expe
 
 ---
 
-### ⭐ Research · Build · Experiment · Share
+### ⚛️ Quantum · 🤖 AI · 🔬 Research · 💻 Build

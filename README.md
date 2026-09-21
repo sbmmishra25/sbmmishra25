@@ -4,7 +4,7 @@
 
 I work at the intersection of **AI research, quantum computing, software development, and education**, with a focus on practical, reproducible, and research-oriented intelligent systems.
 
-My research interests span **Machine Learning, Deep Learning, Generative AI, Large Language Models, Natural Language Processing, Computer Vision, Agentic AI, Trustworthy AI, AI in Healthcare, Quantum Computing, Quantum Machine Learning, and Quantum-Enhanced Optimization**.
+My research interests span **Quantum Computing, Quantum Machine Learning, and Quantum-Enhanced Optimization, Machine Learning, Deep Learning, Generative AI, Large Language Models, Natural Language Processing, Computer Vision, Agentic AI, Trustworthy AI, AI in Healthcare**.
 
 ---
 

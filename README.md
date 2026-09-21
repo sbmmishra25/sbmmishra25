@@ -76,21 +76,31 @@ A dedicated research direction of my profile is the intersection of **quantum co
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### 🧠 Hindi-English Code-Mixed NLP
-Research-oriented toolkit for preprocessing and experimentation with Hindi-English code-mixed text, including a reproducible TF-IDF sentiment baseline and unit tests.
+A curated portfolio of research-oriented projects spanning **Quantum AI, Machine Learning, Generative AI, NLP, Multimodal AI, Agentic AI, and trustworthy intelligent systems**.
 
-**Repository:** [`sbm25`](https://github.com/sbmmishra25/sbm25)
+| Project | Area | Research Focus |
+|---|---|---|
+| [PhD Research Lab](https://github.com/sbmmishra25/phd-research-lab) | 🔬 AI + Quantum AI | Reproducible PhD-level research portfolio |
+| [Quantum-Enhanced Optimization](https://github.com/sbmmishra25/phd-research-lab/tree/main/01-quantum-optimization) | ⚛️ Quantum Computing | QAOA, MaxCut, optimization and classical comparison |
+| [Quantum Kernel Learning](https://github.com/sbmmishra25/phd-research-lab/tree/main/02-quantum-kernel-learning) | ⚛️ QML | Quantum feature maps, fidelity kernels and QSVC |
+| [Trustworthy Quantum ML](https://github.com/sbmmishra25/phd-research-lab/tree/main/03-trustworthy-quantum-ml) | 🛡️ Trustworthy AI | Robustness, uncertainty and noise sensitivity |
+| [Hybrid Quantum-Classical NN](https://github.com/sbmmishra25/phd-research-lab/tree/main/04-hybrid-quantum-classical-nn) | ⚛️🤖 Hybrid AI | Hybrid representations and trainable quantum models |
+| [Agentic Decision Intelligence](https://github.com/sbmmishra25/phd-research-lab/tree/main/05-agentic-decision-intelligence) | 🤖 Agentic AI | Planning, tools, memory and auditability |
+| [Research RAG](https://github.com/sbmmishra25/phd-research-lab/tree/main/06-research-rag) | 📚 Generative AI | Evidence-grounded retrieval and research assistance |
+| [Efficient LLM Adaptation](https://github.com/sbmmishra25/phd-research-lab/tree/main/07-efficient-llm-adaptation) | 🧠 LLMs | LoRA, PEFT and parameter-efficient adaptation |
+| [Hinglish NLP](https://github.com/sbmmishra25/phd-research-lab/tree/main/08-hinglish-nlp) | 🧠 NLP | Hindi-English code-mixed language understanding |
+| [Multimodal Research Assistant](https://github.com/sbmmishra25/phd-research-lab/tree/main/09-multimodal-research-assistant) | 👁️ Multimodal AI | Image-text fusion and multimodal reasoning |
+| [Predictive Maintenance](https://github.com/sbmmishra25/phd-research-lab/tree/main/10-predictive-maintenance) | 🏭 Industrial AI | Sensor learning, cross-machine transfer and robustness |
 
-**Focus:** NLP · Code-Mixed Language · Sentiment Analysis · Reproducibility
+### Research Portfolio Themes
 
-### ⚛️ Quantum-Enhanced AI Research
-An ongoing research direction exploring **hybrid quantum-classical AI, quantum optimization, trustworthy Quantum AI, and autonomous decision-making**.
+**⚛️ Quantum AI** · QAOA · QML · Quantum Kernels · Hybrid Quantum-Classical Learning · Trustworthy QML
 
-**Status:** Research direction / experiments in development
+**🤖 Intelligent Systems** · Agentic AI · RAG · LLM Adaptation · Multimodal AI
 
----
+**🔬 Applied Research** · NLP · Industrial AI · Predictive Maintenance · Reproducible Experimentation
 
 ## 📚 Quantum Research Roadmap
 

@@ -8,9 +8,28 @@ My research interests span **Quantum Computing, Quantum Machine Learning, and Qu
 
 ---
 
+## 🧰 Technical Interests
+
+**Programming**  
+`Python` · `C` · `C++` · `SQL`
+
+**AI / ML**  
+`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `Generative AI` · `LLMs` · `Transformers`
+
+**Quantum**  
+`Quantum Computing` · `QML` · `Variational Quantum Algorithms` · `Quantum Optimization` · `Quantum Information`
+
+**Research & Engineering**  
+`RAG` · `Multimodal AI` · `Agentic AI` · `Trustworthy AI` · `Research Prototyping` · `Experiment Design` · `Model Evaluation`
+
 ## ⚛️ Quantum Computing & Quantum AI
 
 A dedicated research direction of my profile is the intersection of **quantum computing and artificial intelligence**.
+## 🧑‍🏫 Teaching & Mentoring
+
+I am interested in **teaching, mentoring, research supervision, and developing practical AI/ML and emerging-computing learning experiences** for students and researchers.
+
+I enjoy turning complex concepts into **implementable projects, experiments, algorithms, and research problems**.
 
 ### Quantum Computing
 
@@ -57,22 +76,6 @@ A dedicated research direction of my profile is the intersection of **quantum co
 | 🩺 Healthcare AI | Intelligent decision-support applications |
 | 🤖 Agentic AI | Autonomous, tool-using intelligent systems |
 | 🛡️ Trustworthy AI | Reliability, interpretability and responsible AI |
-
----
-
-## 🧰 Technical Interests
-
-**Programming**  
-`Python` · `C` · `C++` · `SQL`
-
-**AI / ML**  
-`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `Generative AI` · `LLMs` · `Transformers`
-
-**Quantum**  
-`Quantum Computing` · `QML` · `Variational Quantum Algorithms` · `Quantum Optimization` · `Quantum Information`
-
-**Research & Engineering**  
-`RAG` · `Multimodal AI` · `Agentic AI` · `Trustworthy AI` · `Research Prototyping` · `Experiment Design` · `Model Evaluation`
 
 ---
 
@@ -123,15 +126,6 @@ Trustworthy Quantum AI
         ↓
 Autonomous / Agentic Quantum-Enhanced AI
 ```
-
----
-
-## 🧑‍🏫 Teaching & Mentoring
-
-I am interested in **teaching, mentoring, research supervision, and developing practical AI/ML and emerging-computing learning experiences** for students and researchers.
-
-I enjoy turning complex concepts into **implementable projects, experiments, algorithms, and research problems**.
-
 ---
 
 ## 🤝 Collaboration
